@@ -1,4 +1,13 @@
 {
+  "id": "jacob-app",
+  "name": "jacob-app",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "tsc",
+    "build": "tsc",
+    "preview": "tsc"
+  },
   "dependencies": {
     "react": "^18.3.1"
   },
